@@ -4,23 +4,22 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import sk.ukf2.spring_2.entity.Student;
-
+import sk.ukf2.spring_2.entity.Employee;
 import java.util.List;
 
 @Repository
-public class StudentDAOJpaImpl implements StudentDAO {
+public class EmployeeDAOJpaImpl implements EmployeeDAO {
+
     private final EntityManager entityManager;
 
     @Autowired
-    public StudentDAOJpaImpl(EntityManager entityManager) {
+    public EmployeeDAOJpaImpl(EntityManager entityManager) {
         this.entityManager = entityManager;
     }
 
     @Override
-    public List<Student> findAll() {
-        TypedQuery<Student> query = entityManager.createQuery("from Student", Student.class);
-        List<Student> students = query.getResultList();
-        return students;
+    public List<Employee> findAll() {
+        TypedQuery<Employee> query = entityManager.createQuery("from Employee", Employee.class);
+        return query.getResultList();
     }
 }
