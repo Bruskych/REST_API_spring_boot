@@ -1,4 +1,4 @@
-package sk.ukf2.spring_2.dao;
+package sk.ukf2.spring_2.repository;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;

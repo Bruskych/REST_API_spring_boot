@@ -2,7 +2,7 @@ package sk.ukf2.spring_2.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import sk.ukf2.spring_2.dao.EmployeeDAO;
+import sk.ukf2.spring_2.repository.EmployeeDAO;
 import sk.ukf2.spring_2.entity.Employee;
 import java.util.List;
 

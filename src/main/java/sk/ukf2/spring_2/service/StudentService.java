@@ -14,4 +14,6 @@ public interface StudentService {
     void deleteById(Integer id);
 
     List<Student> findByFirstNameAndLastName(String firstName, String lastName);
+
+    List<Student> getSortedStudents();
 }

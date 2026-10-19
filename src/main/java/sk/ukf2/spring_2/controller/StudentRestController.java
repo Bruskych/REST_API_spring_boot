@@ -31,6 +31,11 @@ public class StudentRestController {
         return studentService.findByFirstNameAndLastName(firstName, lastName);
     }
 
+    @GetMapping("/students/sorted")
+    public List<Student> getSortedStudents() {
+        return studentService.getSortedStudents();
+    }
+
     @GetMapping("/students/{id}")
     public Student getStudentById(@PathVariable Integer id) {
         Student student = studentService.findById(id);
