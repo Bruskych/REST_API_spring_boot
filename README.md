@@ -25,19 +25,19 @@ Test in Postman (`GET` http://localhost:8080/api/employees)
 
 ### Zadanie 3 – Adresár zamestnancov (Spring Data JPA & REST API)
 
-- 1. Získanie všetkých zamestnancov (`GET /api/employees`)
+1. Získanie všetkých zamestnancov (`GET /api/employees`)
 ![cvicenie_4_10_getAll.png](src/main/resources/images/cvicenie_4_10_getAll.png)
 
-- 2. Získanie zamestnanca podľa ID (`GET /api/employees/{id}`)
+2. Získanie zamestnanca podľa ID (`GET /api/employees/{id}`)
 ![cvicenie_4_10_GetID.png](src/main/resources/images/cvicenie_4_10_GetID.png)
 
-- 3. Pridanie nového zamestnanca (`POST /api/employees`)
+3. Pridanie nového zamestnanca (`POST /api/employees`)
 ![cvicenie_4_10_Create.png](src/main/resources/images/cvicenie_4_10_Create.png)
 
-- 4. Aktualizácia zamestnanca (`PUT /api/employees/{id}`)
+4. Aktualizácia zamestnanca (`PUT /api/employees/{id}`)
 ![cvicenie_4_10_UpdateID.png](src/main/resources/images/cvicenie_4_10_UpdateID.png)
 
-- 5. Zmazanie zamestnanca (`DELETE /api/employees/{id}`)
+5. Zmazanie zamestnanca (`DELETE /api/employees/{id}`)
 ![cvicenie_4_10_DeleteID.png](src/main/resources/images/cvicenie_4_10_DeleteID.png)
 
 ---
