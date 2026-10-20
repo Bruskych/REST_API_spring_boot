@@ -41,3 +41,29 @@ Test in Postman (`GET` http://localhost:8080/api/employees)
 ![cvicenie_4_10_DeleteID.png](src/main/resources/images/cvicenie_4_10_DeleteID.png)
 
 ---
+
+## Cvicenie 5 - Exceptions
+
+GET ->
+
+![cvicenie_5_1_get.png](src/main/resources/images/cvicenie_5_1_get.png)
+![cvicenie_5_2_get.png](src/main/resources/images/cvicenie_5_2_get.png)
+![cvicenie_5_3_get.png](src/main/resources/images/cvicenie_5_3_get.png)
+
+POST ->
+
+![cvicenie_5_4_post.png](src/main/resources/images/cvicenie_5_4_post.png)
+
+PUT ->
+
+![cvicenie_5_5_put.png](src/main/resources/images/cvicenie_5_5_put.png)
+
+DELETE ->
+
+![cvicenie_5_6_delete.png](src/main/resources/images/cvicenie_5_6_delete.png)
+
+---
+
+## Zadanie 4 - ?
+
+---
