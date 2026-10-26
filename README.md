@@ -64,6 +64,16 @@ DELETE ->
 
 ---
 
-## Zadanie 4 - ?
+## Zadanie 4 - Employee
+
+![cvicenie_5_HW_1.png](src/main/resources/images/cvicenie_5_HW_1.png)
+![cvicenie_5_HW_2.png](src/main/resources/images/cvicenie_5_HW_2.png)
+![cvicenie_5_HW_3.png](src/main/resources/images/cvicenie_5_HW_3.png)
+![cvicenie_5_HW_4.png](src/main/resources/images/cvicenie_5_HW_4.png)
+![cvicenie_5_HW_5.png](src/main/resources/images/cvicenie_5_HW_5.png)
+![cvicenie_5_HW_6.png](src/main/resources/images/cvicenie_5_HW_6.png)
+![cvicenie_5_HW_7.png](src/main/resources/images/cvicenie_5_HW_7.png)
+![cvicenie_5_HW_8.png](src/main/resources/images/cvicenie_5_HW_8.png)
+![cvicenie_5_HW_9.png](src/main/resources/images/cvicenie_5_HW_9.png)
 
 ---
